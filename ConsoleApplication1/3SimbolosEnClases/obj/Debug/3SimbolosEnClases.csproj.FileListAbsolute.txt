@@ -1,0 +1,5 @@
+c:\users\cdfn3\documents\visual studio 2015\Projects\ConsoleApplication1\3SimbolosEnClases\bin\Debug\3SimbolosEnClases.exe.config
+c:\users\cdfn3\documents\visual studio 2015\Projects\ConsoleApplication1\3SimbolosEnClases\bin\Debug\3SimbolosEnClases.exe
+c:\users\cdfn3\documents\visual studio 2015\Projects\ConsoleApplication1\3SimbolosEnClases\bin\Debug\3SimbolosEnClases.pdb
+c:\users\cdfn3\documents\visual studio 2015\Projects\ConsoleApplication1\3SimbolosEnClases\obj\Debug\3SimbolosEnClases.exe
+c:\users\cdfn3\documents\visual studio 2015\Projects\ConsoleApplication1\3SimbolosEnClases\obj\Debug\3SimbolosEnClases.pdb

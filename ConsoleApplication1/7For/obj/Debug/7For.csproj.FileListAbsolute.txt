@@ -1,0 +1,5 @@
+c:\users\cdfn3\documents\visual studio 2015\Projects\ConsoleApplication1\7For\bin\Debug\7For.exe.config
+c:\users\cdfn3\documents\visual studio 2015\Projects\ConsoleApplication1\7For\bin\Debug\7For.exe
+c:\users\cdfn3\documents\visual studio 2015\Projects\ConsoleApplication1\7For\bin\Debug\7For.pdb
+c:\users\cdfn3\documents\visual studio 2015\Projects\ConsoleApplication1\7For\obj\Debug\7For.exe
+c:\users\cdfn3\documents\visual studio 2015\Projects\ConsoleApplication1\7For\obj\Debug\7For.pdb

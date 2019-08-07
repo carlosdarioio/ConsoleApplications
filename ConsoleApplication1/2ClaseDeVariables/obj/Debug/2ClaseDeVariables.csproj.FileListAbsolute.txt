@@ -1,0 +1,6 @@
+c:\users\cdfn3\documents\visual studio 2015\Projects\ConsoleApplication1\2ClaseDeVariables\bin\Debug\2ClaseDeVariables.exe.config
+c:\users\cdfn3\documents\visual studio 2015\Projects\ConsoleApplication1\2ClaseDeVariables\bin\Debug\2ClaseDeVariables.exe
+c:\users\cdfn3\documents\visual studio 2015\Projects\ConsoleApplication1\2ClaseDeVariables\bin\Debug\2ClaseDeVariables.pdb
+c:\users\cdfn3\documents\visual studio 2015\Projects\ConsoleApplication1\2ClaseDeVariables\obj\Debug\2ClaseDeVariables.csprojResolveAssemblyReference.cache
+c:\users\cdfn3\documents\visual studio 2015\Projects\ConsoleApplication1\2ClaseDeVariables\obj\Debug\2ClaseDeVariables.exe
+c:\users\cdfn3\documents\visual studio 2015\Projects\ConsoleApplication1\2ClaseDeVariables\obj\Debug\2ClaseDeVariables.pdb

@@ -1,0 +1,5 @@
+C:\Users\cdfn3\Documents\Visual Studio 2015\Projects\ConsoleApplication1\11ClaseInsertSQL\bin\Debug\11ClaseInsertSQL.exe.config
+C:\Users\cdfn3\Documents\Visual Studio 2015\Projects\ConsoleApplication1\11ClaseInsertSQL\bin\Debug\11ClaseInsertSQL.exe
+C:\Users\cdfn3\Documents\Visual Studio 2015\Projects\ConsoleApplication1\11ClaseInsertSQL\bin\Debug\11ClaseInsertSQL.pdb
+C:\Users\cdfn3\Documents\Visual Studio 2015\Projects\ConsoleApplication1\11ClaseInsertSQL\obj\Debug\11ClaseInsertSQL.exe
+C:\Users\cdfn3\Documents\Visual Studio 2015\Projects\ConsoleApplication1\11ClaseInsertSQL\obj\Debug\11ClaseInsertSQL.pdb

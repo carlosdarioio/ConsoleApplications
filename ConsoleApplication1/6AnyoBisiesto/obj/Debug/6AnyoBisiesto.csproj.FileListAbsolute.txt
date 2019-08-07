@@ -1,0 +1,5 @@
+c:\users\cdfn3\documents\visual studio 2015\Projects\ConsoleApplication1\6AnyoBisiesto\bin\Debug\6AnyoBisiesto.exe.config
+c:\users\cdfn3\documents\visual studio 2015\Projects\ConsoleApplication1\6AnyoBisiesto\bin\Debug\6AnyoBisiesto.exe
+c:\users\cdfn3\documents\visual studio 2015\Projects\ConsoleApplication1\6AnyoBisiesto\bin\Debug\6AnyoBisiesto.pdb
+c:\users\cdfn3\documents\visual studio 2015\Projects\ConsoleApplication1\6AnyoBisiesto\obj\Debug\6AnyoBisiesto.exe
+c:\users\cdfn3\documents\visual studio 2015\Projects\ConsoleApplication1\6AnyoBisiesto\obj\Debug\6AnyoBisiesto.pdb

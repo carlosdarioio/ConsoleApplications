@@ -1,0 +1,6 @@
+C:\Users\cdfn3\Documents\Visual Studio 2015\Projects\ConsoleApplication1\9ClaseConexionSQL\bin\Debug\9ClaseConexionSQL.exe.config
+C:\Users\cdfn3\Documents\Visual Studio 2015\Projects\ConsoleApplication1\9ClaseConexionSQL\bin\Debug\9ClaseConexionSQL.exe
+C:\Users\cdfn3\Documents\Visual Studio 2015\Projects\ConsoleApplication1\9ClaseConexionSQL\bin\Debug\9ClaseConexionSQL.pdb
+C:\Users\cdfn3\Documents\Visual Studio 2015\Projects\ConsoleApplication1\9ClaseConexionSQL\obj\Debug\9ClaseConexionSQL.csprojResolveAssemblyReference.cache
+C:\Users\cdfn3\Documents\Visual Studio 2015\Projects\ConsoleApplication1\9ClaseConexionSQL\obj\Debug\9ClaseConexionSQL.exe
+C:\Users\cdfn3\Documents\Visual Studio 2015\Projects\ConsoleApplication1\9ClaseConexionSQL\obj\Debug\9ClaseConexionSQL.pdb

@@ -1,0 +1,6 @@
+C:\Users\cdfn3\Documents\Visual Studio 2015\Projects\ConsoleApplication1\13GetAndPostSql\bin\Debug\13GetAndPostSql.exe.config
+C:\Users\cdfn3\Documents\Visual Studio 2015\Projects\ConsoleApplication1\13GetAndPostSql\bin\Debug\13GetAndPostSql.exe
+C:\Users\cdfn3\Documents\Visual Studio 2015\Projects\ConsoleApplication1\13GetAndPostSql\bin\Debug\13GetAndPostSql.pdb
+C:\Users\cdfn3\Documents\Visual Studio 2015\Projects\ConsoleApplication1\13GetAndPostSql\obj\Debug\13GetAndPostSql.csprojResolveAssemblyReference.cache
+C:\Users\cdfn3\Documents\Visual Studio 2015\Projects\ConsoleApplication1\13GetAndPostSql\obj\Debug\13GetAndPostSql.exe
+C:\Users\cdfn3\Documents\Visual Studio 2015\Projects\ConsoleApplication1\13GetAndPostSql\obj\Debug\13GetAndPostSql.pdb

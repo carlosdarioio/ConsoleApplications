@@ -1,0 +1,6 @@
+c:\users\cdfn3\documents\visual studio 2015\Projects\ConsoleApplication1\1HolaMundo\bin\Debug\1HolaMundo.exe.config
+c:\users\cdfn3\documents\visual studio 2015\Projects\ConsoleApplication1\1HolaMundo\bin\Debug\1HolaMundo.exe
+c:\users\cdfn3\documents\visual studio 2015\Projects\ConsoleApplication1\1HolaMundo\bin\Debug\1HolaMundo.pdb
+c:\users\cdfn3\documents\visual studio 2015\Projects\ConsoleApplication1\1HolaMundo\obj\Debug\1HolaMundo.exe
+c:\users\cdfn3\documents\visual studio 2015\Projects\ConsoleApplication1\1HolaMundo\obj\Debug\1HolaMundo.pdb
+C:\Users\cdfn3\Documents\Visual Studio 2015\Projects\ConsoleApplication1\1HolaMundo\obj\Debug\1HolaMundo.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\users\cdfn3\documents\visual studio 2015\Projects\ConsoleApplication1\5ParOImpar\bin\Debug\5ParOImpar.exe.config
+c:\users\cdfn3\documents\visual studio 2015\Projects\ConsoleApplication1\5ParOImpar\bin\Debug\5ParOImpar.exe
+c:\users\cdfn3\documents\visual studio 2015\Projects\ConsoleApplication1\5ParOImpar\bin\Debug\5ParOImpar.pdb
+c:\users\cdfn3\documents\visual studio 2015\Projects\ConsoleApplication1\5ParOImpar\obj\Debug\5ParOImpar.exe
+c:\users\cdfn3\documents\visual studio 2015\Projects\ConsoleApplication1\5ParOImpar\obj\Debug\5ParOImpar.pdb

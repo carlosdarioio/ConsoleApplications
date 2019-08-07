@@ -1,0 +1,6 @@
+c:\users\cdfn3\documents\visual studio 2015\Projects\ConsoleApplication1\4IfEnClases\bin\Debug\4IfEnClases.exe.config
+c:\users\cdfn3\documents\visual studio 2015\Projects\ConsoleApplication1\4IfEnClases\bin\Debug\4IfEnClases.exe
+c:\users\cdfn3\documents\visual studio 2015\Projects\ConsoleApplication1\4IfEnClases\bin\Debug\4IfEnClases.pdb
+c:\users\cdfn3\documents\visual studio 2015\Projects\ConsoleApplication1\4IfEnClases\obj\Debug\4IfEnClases.csprojResolveAssemblyReference.cache
+c:\users\cdfn3\documents\visual studio 2015\Projects\ConsoleApplication1\4IfEnClases\obj\Debug\4IfEnClases.exe
+c:\users\cdfn3\documents\visual studio 2015\Projects\ConsoleApplication1\4IfEnClases\obj\Debug\4IfEnClases.pdb

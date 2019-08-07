@@ -1,0 +1,6 @@
+C:\Users\cdfn3\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ClaseDeteleSQL\bin\Debug\ClaseDeteleSQL.exe.config
+C:\Users\cdfn3\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ClaseDeteleSQL\bin\Debug\ClaseDeteleSQL.exe
+C:\Users\cdfn3\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ClaseDeteleSQL\bin\Debug\ClaseDeteleSQL.pdb
+C:\Users\cdfn3\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ClaseDeteleSQL\obj\Debug\ClaseDeteleSQL.exe
+C:\Users\cdfn3\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ClaseDeteleSQL\obj\Debug\ClaseDeteleSQL.pdb
+C:\Users\cdfn3\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ClaseDeteleSQL\obj\Debug\10ClaseDeteleSQL.csprojResolveAssemblyReference.cache

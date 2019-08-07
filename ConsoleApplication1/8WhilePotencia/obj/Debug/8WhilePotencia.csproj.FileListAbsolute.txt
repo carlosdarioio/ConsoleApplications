@@ -1,0 +1,5 @@
+c:\users\cdfn3\documents\visual studio 2015\Projects\ConsoleApplication1\8WhilePotencia\bin\Debug\8WhilePotencia.exe.config
+c:\users\cdfn3\documents\visual studio 2015\Projects\ConsoleApplication1\8WhilePotencia\bin\Debug\8WhilePotencia.exe
+c:\users\cdfn3\documents\visual studio 2015\Projects\ConsoleApplication1\8WhilePotencia\bin\Debug\8WhilePotencia.pdb
+c:\users\cdfn3\documents\visual studio 2015\Projects\ConsoleApplication1\8WhilePotencia\obj\Debug\8WhilePotencia.exe
+c:\users\cdfn3\documents\visual studio 2015\Projects\ConsoleApplication1\8WhilePotencia\obj\Debug\8WhilePotencia.pdb
